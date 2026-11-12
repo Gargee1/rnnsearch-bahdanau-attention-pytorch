@@ -32,6 +32,6 @@ Unlike traditional encoder-decoder models that compress an entire source sentenc
 
 ```text
 .
-├── dl_assignment.py               # End-to-end data pipeline, RNNsearch model, training, and evaluation
+├── model.py               # End-to-end data pipeline, RNNsearch model, training, and evaluation
 ├── best_rnnsearch_attention.pt    # Saved checkpoint with lowest validation loss (generated on run)
 └── README.md                      # Project documentation
